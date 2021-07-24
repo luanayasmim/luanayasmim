@@ -1,6 +1,7 @@
 ### Hi 👋, my name is Luana Yasmim and I'm studying software developer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanayasmim&show_icons=true&theme=dracula)<!-- Cartão de estatísticas -->
+<img align="relative" height="150" width="150" src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif" style="max-width:100%">
 
 <a><img align="center" alt="Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30" style="max-width:100%;">
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;">
@@ -21,7 +22,8 @@
 <a href="luanayasmim11@outlook.com">
 <img src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;"></a>
 <a href="">
-<img src="https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width:100%;"></a>
+<img src="https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width:100%;">
+</a>
 
 <!--
 **luanayasmim/luanayasmim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
