@@ -1,7 +1,7 @@
 ### Hi 👋, my name is Luana Yasmim and I'm studying software developer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanayasmim&show_icons=true&theme=dracula)<!-- Cartão de estatísticas -->
-<img align="relative" height="150" width="150" src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif" style="max-width:100%">
+<img height="150" width="150" src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif" style="max-width:100%">
 
 <a><img align="center" alt="Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30" style="max-width:100%;">
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;">
