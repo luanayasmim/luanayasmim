@@ -14,7 +14,7 @@
 
 <!-- Ultímo projeto -->
 ### ✔The last project added.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luanayasmim&repo=Projeto---Netflix&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luanayasmim&repo=first-app-react-native&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanayasmim&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<!-- Cartão de principais linguagens de programação -->
 <h2></h2>
 <!-- botões -->
