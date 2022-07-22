@@ -1,6 +1,6 @@
 ### Hi 👋, my name is Luana Yasmim and I'm software developer.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanayasmim&theme=dracula)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanayasmim&theme=dracula)
 <img height="150" width="150" src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif" style="max-width:100%">
 
 <a><img align="center" alt="Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30" style="max-width:100%;">
