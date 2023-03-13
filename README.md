@@ -1,4 +1,6 @@
-### Hi 👋, my name is Luana Yasmim and I'm software developer.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=dd6388&center=false&vCenter=false&width=1000&lines=Hi%2C+My+name+is+Luana+Yasmim+;I'm+19+years+old;I'm+software+developer;)](https://github.com/luanayasmim)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanayasmim&theme=dracula)
 <img height="190" width="190" src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif" style="max-width:100%">
