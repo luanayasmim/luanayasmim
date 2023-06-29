@@ -11,7 +11,7 @@
 
 <!-- Ultímo projeto -->
 ### ✔The last project added.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luanayasmim&repo=alura-tracker&theme=dracula)]([https://github.com/luanayasmim/alura-tracker](https://github.com/luanayasmim/alura-tracker))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luanayasmim&repo=site-spotify-clone&theme=dracula)]([https://github.com/luanayasmim/site-spotify-clone](https://github.com/luanayasmim/site-spotify-clone))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanayasmim&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<!-- Cartão de principais linguagens de programação -->
 
 <!-- botões -->
