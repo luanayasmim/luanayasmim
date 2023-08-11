@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=dd6388&center=false&vCenter=false&width=1000&lines=Hi%2C+my+name+is+Luana+Yasmim+;I'm+19+years+old;I'm+software+developer;)](https://github.com/luanayasmim)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=dd6388&center=false&vCenter=false&width=1000&lines=Hi%2C+I'm+Luana+Yasmim+;I+like+coding;)](https://github.com/luanayasmim)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanayasmim&theme=dracula)
