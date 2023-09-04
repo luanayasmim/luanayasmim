@@ -22,7 +22,7 @@
 
 <hr/>
 
-<h3>Projeto de TCC: <a href="https://github.com/distopia-jogo/distopia">Distopia</a></h3>
+<h3>TCC: <a href="https://github.com/distopia-jogo/distopia">Distopia</a></h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/82424514/169671467-d52e6a92-3d8a-4d25-8788-15402301aa73.gif" />
 </p>
