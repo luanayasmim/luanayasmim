@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=dd6388&center=false&vCenter=false&width=1000&lines=Hi%2C+I'm+Luana+Yasmim+;I+like+coding;)](https://github.com/luanayasmim)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=dd6388&center=false&vCenter=false&width=1000&lines=Hi%2C+I'm+Luana+Yasmim+;I'm+studying+computer+science;)](https://github.com/luanayasmim)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanayasmim&theme=dracula)
@@ -22,4 +22,10 @@
 
 <hr/>
 
-### gitshowcase: https://www.gitshowcase.com/luanayasmim
+<h3>Projeto de TCC: <a href="https://github.com/distopia-jogo/distopia">Distopia</a></h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82424514/169671467-d52e6a92-3d8a-4d25-8788-15402301aa73.gif" />
+</p>
+
+https://github.com/LeonardoAlves24/Tcc-Distopia/assets/82318710/07a5eea4-4e80-4916-834a-c3bb07a3c629
+
