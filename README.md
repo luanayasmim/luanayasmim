@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=dd6388&center=false&vCenter=false&width=1000&lines=Hello+World!;)](https://github.com/luanayasmim)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanayasmim&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanayasmim&show_icons=true&hide=contribs,issues&theme=dracula&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanayasmim&hide=html,css&theme=dracula&layout=compact&hide_progress=true)
 <!--Icons-->
 <div>
