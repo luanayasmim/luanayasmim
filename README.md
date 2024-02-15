@@ -1,8 +1,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=dd6388&center=false&vCenter=false&width=1000&lines=Hello+World!;)](https://github.com/luanayasmim)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanayasmim&show_icons=true&hide=contribs,issues&theme=dracula&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanayasmim&hide=html,css&theme=dracula&layout=compact&hide_progress=true)
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luanayasmim&show_icons=true&hide=contribs,issues&theme=dracula&rank_icon=github"/>&nbsp;
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanayasmim&hide=html,css&theme=dracula&layout=compact&hide_progress=true"/> 
+</div>
 <!--Icons-->
 <div>
   <h2>Technologies:</h2>
@@ -25,12 +27,19 @@
   <a href="https://www.linkedin.com/in/luanayasmim">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </div>
 <img height="150" width="150" src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif"/>
 
-<h2>TCC: <a href="https://github.com/distopia-jogo/distopia">Distopia</a></h2>
-<img src="https://user-images.githubusercontent.com/82424514/169671467-d52e6a92-3d8a-4d25-8788-15402301aa73.gif" />
-
+<h2>TCC: <a href="https://github.com/distopia-jogo/distopia" style="text-decoration:none">Distopia</a></h2>
+<div align="justify">
+<a href="https://github.com/distopia-jogo/distopia">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=distopia-jogo&repo=distopia&theme=dracula" />
+</a>&nbsp;
+  <img align="" src="https://user-images.githubusercontent.com/82424514/169671467-d52e6a92-3d8a-4d25-8788-15402301aa73.gif"/>
+</div>
 
 <!--https://github.com/LeonardoAlves24/Tcc-Distopia/assets/82318710/07a5eea4-4e80-4916-834a-c3bb07a3c629-->
 
