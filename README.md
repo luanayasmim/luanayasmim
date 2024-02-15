@@ -34,11 +34,11 @@
 <img height="150" width="150" src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif"/>
 
 <h2>TCC: <a href="https://github.com/distopia-jogo/distopia" style="text-decoration:none">Distopia</a></h2>
-<div align="justify">
-<a href="https://github.com/distopia-jogo/distopia">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=distopia-jogo&repo=distopia&theme=dracula" />
-</a>
-  <img align="" src="https://user-images.githubusercontent.com/82424514/169671467-d52e6a92-3d8a-4d25-8788-15402301aa73.gif"/>
+<div>
+  <a href="https://github.com/distopia-jogo/distopia">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=distopia-jogo&repo=distopia&theme=dracula" />
+  </a>
+  <img height=250 src="https://user-images.githubusercontent.com/82424514/169671467-d52e6a92-3d8a-4d25-8788-15402301aa73.gif"/>
 </div>
 
 <!--https://github.com/LeonardoAlves24/Tcc-Distopia/assets/82318710/07a5eea4-4e80-4916-834a-c3bb07a3c629-->
