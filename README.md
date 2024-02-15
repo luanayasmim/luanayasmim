@@ -38,7 +38,6 @@
   <a href="https://github.com/distopia-jogo/distopia">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=distopia-jogo&repo=distopia&theme=dracula" />
   </a>
-  &nbsp;
   <img height=250 src="https://user-images.githubusercontent.com/82424514/169671467-d52e6a92-3d8a-4d25-8788-15402301aa73.gif"/>
 </div>
 
