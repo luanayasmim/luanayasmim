@@ -19,8 +19,8 @@
   <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="max-width:100%;" />
 </div>
 
-<div>
-  <h2>Socials:</h2>
+<h2>Socials:</h2>
+<div align-items="center" justify-content="center">
   <a href="https://www.instagram.com/lua_.yasmim/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -30,11 +30,11 @@
   <a href="https://linktr.ee/luanayasmim">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
   </a>
-  <a href="#">
+  <!--<a href="#">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
+  </a>-->
 </div>
-<img height="150" width="150" src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif"/>
+  <img height="125" width="125" src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif"/>
 
 <h2>TCC: <a href="https://github.com/distopia-jogo/distopia" style="text-decoration:none">Distopia</a></h2>
 <div>
