@@ -3,7 +3,7 @@
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luanayasmim&show_icons=true&hide=contribs,issues&theme=dracula&rank_icon=github"/>&nbsp;
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanayasmim&hide=html,css&theme=dracula&layout=compact&hide_progress=true"/> 
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanayasmim&hide=html,css,java&theme=dracula&layout=compact&hide_progress=true"/> 
 </div>
 <!--Icons-->
 <div>
