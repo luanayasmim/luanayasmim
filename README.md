@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>-->
 </div>
-  <img height="125" width="125" src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif"/>
+<!--   <img height="125" width="125" src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif"/> -->
 
 <h2>TCC: <a href="https://github.com/distopia-jogo/distopia" style="text-decoration:none">Distopia</a></h2>
 <div>
